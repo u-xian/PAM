@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PAM.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="MESSAGE_INVALID_INPUT" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">MESSAGE_INVALID_INPUT</Value>
+    </Setting>
+    <Setting Name="ENABLE_BLACKLIST" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="ENABLE_WHITELIST" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="PARAM_MINIMUM_AMOUNT" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">500000</Value>
+    </Setting>
+    <Setting Name="BLACK_LIST_MESSAGE" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Sorry, but you are not allowed to do this.</Value>
+    </Setting>
+    <Setting Name="TC_SA_LIST_MESSAGE" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Ntiwemerewe gukoresha iyi service.Murakoze</Value>
+    </Setting>
+    <Setting Name="DL_TL_LIST_MESSAGE" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Iyi nomero%RECEIVER%ntiwemerewe kuyiranguza Epin. Murakoze</Value>
+    </Setting>
+    <Setting Name="MESSAGE_MINIMUM_ALLOWED_AMOUNT" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Mucuruzi ntiwemerewe kurangura munsi ya  %AMOUNT% RWF, Ongera ukoresheje umubare urenze uyu .Murakoze </Value>
+    </Setting>
+    <Setting Name="MW_USERNAME" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="MW_PASSWORD" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="MW_CONSUMER_ID" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
